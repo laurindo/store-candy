@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Dev/neoevolution/git/karuna/karuna" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/neoevolution/git/kotlin-graphql-showcase" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/neoevolution/git/neoevolution" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/neoevolution/git/showcases/kotlin-graphql-showcase" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/veganhive/git/veganhive" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UR4o5ZcfQLs5GrBAjYBEdDnWvH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+</project>
